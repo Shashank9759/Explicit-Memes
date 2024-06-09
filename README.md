@@ -53,7 +53,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or feedback, please contact me at [your_email@example.com].
+For any questions or feedback, please contact me at shashankranjantech@gmail.com.
 
 ---
 
