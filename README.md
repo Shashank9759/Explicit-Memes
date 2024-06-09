@@ -20,7 +20,7 @@ Welcome to the Random Memes Generator App! This project is a native Android appl
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/Shashank9759/Random-Memes-Generator-App.git
+    git clone https://github.com/Shashank9759/Explicit-Memes.git
     ```
 
 2. **Open the project in Android Studio**:
